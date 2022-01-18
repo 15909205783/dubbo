@@ -16,3 +16,6 @@
 /dubbo-interface/mvnw.cmd
 
 /dubbo.iml
+/dubbo-spi/mvnw
+/dubbo-spi/mvnw.cmd
+/dubbo-spi/.gitignore
