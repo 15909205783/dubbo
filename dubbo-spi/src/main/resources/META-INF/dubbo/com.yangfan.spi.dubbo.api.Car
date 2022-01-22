@@ -1,0 +1,2 @@
+red = com.yangfan.spi.dubbo.impl.RedCar
+black = com.yangfan.spi.dubbo.impl.BlackCar
